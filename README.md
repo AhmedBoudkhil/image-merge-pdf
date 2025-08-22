@@ -28,11 +28,12 @@ git clone https://github.com/yourusername/image-to-pdf.git
 ## 📂 Usage
 ```bash
 python3 convert.py /path/to/images output.pdf
+```
 
 ## 📜 Example Filenames
 img1######1.webp
-img2######1.webp2.webp
-img3######1.webp######3.webp
+img2######1.webp
+img3######3.webp
 
 .
 
