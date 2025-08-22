@@ -25,15 +25,17 @@ Clone the repo and install the required dependency:
 
 ```bash
 git clone https://github.com/yourusername/image-to-pdf.git
+```
 ## 📂 Usage
+
 ```bash
 python3 convert.py /path/to/images output.pdf
 ```
 
 ## 📜 Example Filenames
-img1######1.webp
-img2######1.webp
-img3######3.webp
+img1######1.webp 
+img2######1.webp 
+img3######3.webp 
 
 .
 
@@ -45,7 +47,8 @@ Pillow
 ```bash
 pip install -r requirements.txt
 
-
-
+```
+```bash
 cd image-to-pdf
 pip install -r requirements.txt
+```
